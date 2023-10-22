@@ -27,6 +27,9 @@
     ],
   },
   "angularCompilerOptions": {
+    "enableIvy": true,
+    "fullTemplateTypeCheck": false,
+    "compilationMode": "full",
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": false,
     "strictInputAccessModifiers": false,

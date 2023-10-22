@@ -71,6 +71,7 @@
           },
           "configurations": {
             "production": {
+              "aot": true,
               "browserTarget": "docs.nestjs.com:build:production"
             }
           }
