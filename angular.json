@@ -112,7 +112,6 @@
       }
     }
   },
-  "defaultProject": "docs.nestjs.com",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",
